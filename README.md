@@ -1,7 +1,5 @@
 # 👩‍💻 Hi, I'm MUHAMMED ABDUL HAYY NT!  
-### Experienced Data Engineer & Data Scientist passionate about building scalable data pipelines, optimizing big data workflows, and leveraging machine learning to extract actionable insights.
-
-📍 Currently working at BT Group (Telecommunications), I specialize in Hadoop, Spark, AWS, SQL, ELK Stack, and Python, delivering high-performance data solutions that drive business decisions.
+### Experienced Data Engineer & Data Scientist passionate about building scalable data pipelines, optimizing big data workflows, and leveraging machine learning to extract actionable insights..
 
 💡 Welcome to my GitHub! I am passionate about solving real-world data challenges and transforming raw data into meaningful insights.
 
@@ -18,7 +16,7 @@
 
 ### 🚀 Technical Skills
 - 🔹 Programming: Python, Shell Scripting, SQL
-- 🔹 Big Data Technologies: Hadoop (HDFS, Hive, Sqoop), Spark, Kafka
+- 🔹 Big Data Technologies: ELK,Hadoop (HDFS, Hive, Sqoop), Spark, Kafka
 - 🔹 Data Engineering: ETL Pipelines, Data Warehousing, Data Integration
 - 🔹 Cloud Platforms: AWS (EMR, S3, Glue, Lambda, RDS), Azure (Data Factory, Synapse)
 - 🔹 Databases: MySQL, PostgreSQL, Hive
@@ -34,7 +32,7 @@
 - ✅ Built data-driven dashboards in Kibana & Power BI, providing real-time insights.
 - ✅ Managed large-scale data pipelines using Elasticsearch, Logstash, and Filebeat.
 
-### ⛽ Fuel Price Analysis (Python + SQL + Data Visualization)
+### ⛽ Fuel Price Analysis (ELK + Python + SQL + Data Visualization)
 - ✅ Analyzed daily & historical fuel prices across India using SQL queries & Python visualizations.
 - ✅ Automated data collection, cleaning, and reporting, enhancing visibility for stakeholders.
 
